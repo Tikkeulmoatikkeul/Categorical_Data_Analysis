@@ -12,4 +12,5 @@
 - loglinear models for contingency tables and counts
 - models for matched pairs
 
+
 ![intel](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![windows](https://img.shields.io/badge/Windows_11-LG_gram-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
